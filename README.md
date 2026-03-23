@@ -21,6 +21,8 @@
 <img src="images/tpGitP3-8.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-9.png" alt="Texte alternatif" width="400"/>
 
+##3-Pull request
+
 <img src="images/tpGitP4.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP5.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP6.png" alt="Texte alternatif" width="400"/>
