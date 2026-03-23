@@ -5,12 +5,16 @@
 <img src="images/tpGitP1.png" alt="Texte alternatif" width="400"/>
 
 
-## 2 - Suivre un fichier & Creation d'une branche & Passer un commit
-
-
+## 2 - Suivre un fichier 
 
 <img src="images/tpGitP2.png" alt="Texte alternatif" width="400"/>
+
+## 3 - Creation d'une branche 
+
 <img src="images/tpGitP3.png" alt="Texte alternatif" width="400"/>
+
+## 4 -  Passer un premier commit
+
 <img src="images/tpGitP3-1.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-2.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-3.png" alt="Texte alternatif" width="400"/>
