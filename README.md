@@ -34,7 +34,6 @@
 <img src="images/tpGitP3-5.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-6.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-7.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-8.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-9.png" alt="Texte alternatif" width="400"/>
 
 
