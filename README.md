@@ -16,6 +16,9 @@
 ## 4 - Creation d'une branche 
 
 <img src="images/tpGitP3-1.png" alt="Texte alternatif" width="400"/>
+
+## 5 - pusher la branche au remote 
+
 <img src="images/tpGitP3-2.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-3.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-4.png" alt="Texte alternatif" width="400"/>
