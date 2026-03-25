@@ -1,40 +1,43 @@
 # tp-git
 ## 1 - Création et initialisation de votre premier dépôt
 
-
-<img src="images/tpGitP1.png" alt="Texte alternatif" width="400"/>
-
+<img width="1454" height="494" alt="tpGitP3-1" src="https://github.com/user-attachments/assets/b93dd5ad-9236-4d2a-a00e-f157c25a5dea" />
 
 ## 2 - Suivre un fichier 
 
-<img src="images/tpGitP2.png" alt="Texte alternatif" width="400"/>
+<img width="1445" height="503" alt="tpGitP2" src="https://github.com/user-attachments/assets/f89f0ea9-0d61-48e2-a638-a2d148192512" />
 
 ## 3 - Passer un premier commit 
 
-<img src="images/tpGitP3.png" alt="Texte alternatif" width="400"/>
+<img width="1458" height="504" alt="tpGitP3" src="https://github.com/user-attachments/assets/6a10b152-ebe3-484c-875a-9b5bd8cadd30" />
 
 ## 4 - Creation d'une branche 
 
-<img src="images/tpGitP3-1.png" alt="Texte alternatif" width="400"/>
+<img width="1454" height="494" alt="tpGitP3-1" src="https://github.com/user-attachments/assets/79a8ed6a-b4ea-480b-be28-e14355b5a676" />
 
 ## 5 - pusher la branche au remote 
 
-<img src="images/tpGitP3-2.png" alt="Texte alternatif" width="400"/>
+<img width="1457" height="508" alt="tpGitP3-2" src="https://github.com/user-attachments/assets/e84c9259-a325-47dd-82bd-428995f1ee27" />
 
 ## 3 - Pull request
 
-<img src="images/tpGitP4.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP5.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP6.png" alt="Texte alternatif" width="400"/>
+<img width="1891" height="855" alt="tpGitP4" src="https://github.com/user-attachments/assets/64acdba7-bc96-4e68-bae7-9ecd8c3c1e6f" />
+<img width="1892" height="830" alt="tpGitP5" src="https://github.com/user-attachments/assets/922d5c61-9730-460a-80a8-42c66d7a982a" />
+<img width="1887" height="855" alt="tpGitP6" src="https://github.com/user-attachments/assets/779ccbf4-a9ad-4bcf-b351-9379f80370dc" />
 
 ## 4 - ignorer un fichier 
 
-<img src="images/tpGitP3-3.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-4.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-5.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-6.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-7.png" alt="Texte alternatif" width="400"/>
-<img src="images/tpGitP3-9.png" alt="Texte alternatif" width="400"/>
+<img width="1465" height="486" alt="tpGitP3-3" src="https://github.com/user-attachments/assets/f4ff5baf-cedb-4c4e-8bc4-b714d5a164ab" />
+<img width="1461" height="243" alt="tpGitP3-4" src="https://github.com/user-attachments/assets/7d50eaf4-b44c-41e8-a2aa-def0e3da93c2" />
+<img width="1458" height="361" alt="tpGitP3-5" src="https://github.com/user-attachments/assets/1708f760-c809-4f46-9b3e-96668accac31" />
+<img width="1452" height="469" alt="tpGitP3-6" src="https://github.com/user-attachments/assets/4e072224-f46f-4f0a-ad4f-2b5ff74afe9f" />
+<img width="1453" height="204" alt="tpGitP3-7" src="https://github.com/user-attachments/assets/c350809b-981a-4834-9ab1-5f5d3b093bd6" />
+<img width="1450" height="387" alt="tpGitP3-8" src="https://github.com/user-attachments/assets/27736ff9-2948-498d-9e37-b0bfa5b13906" />
+<img width="1449" height="486" alt="tpGitP3-9" src="https://github.com/user-attachments/assets/46f996ee-7ac9-4754-9d16-6c7d7ee123ee" />
+
+
+
+
 
 
 
